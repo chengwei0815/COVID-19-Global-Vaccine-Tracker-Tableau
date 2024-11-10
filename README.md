@@ -37,3 +37,7 @@ Steps:
 
 **Direct Link:**
 https://public.tableau.com/app/profile/wei.cheng7743/viz/COVID-19GlobalVaccineTracker_17306988878630/Dashboard
+
+![COVID-19 Dashboard](https://raw.githubusercontent.com/chengwei0815/COVID-19-Global-Vaccine-Tracker-Tableau/main/covid-Dashboard.png)
+
+
