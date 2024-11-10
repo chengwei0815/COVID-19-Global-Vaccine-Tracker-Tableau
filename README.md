@@ -9,7 +9,7 @@ As the lead data analyst on this project, I was responsible for designing and im
 ## Action
 To create the dashboard, I utilized the Our World in Data COVID vaccination dataset, which is updated regularly and uses the most recent official numbers from governments and health ministries worldwide. I designed the dashboard to include key metrics such as the share of the population that has been partially or fully vaccinated, vaccine doses administered daily, boosters administered daily, and GDP correlation with vaccination program performance. The dashboard also includes cool map charts and allows filtering by date, country, and continent. The preview of the dashboard is available below.
 
-https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F46c023a4-1c56-4a89-94a9-6ee766c9598e%2F8bf4578e-b3ce-4710-a5d6-6efb446afdbd%2FUntitled.png?table=block&id=1246fdab-1133-811f-a993-fb1cf74c3ce0&spaceId=46c023a4-1c56-4a89-94a9-6ee766c9598e&width=2000&userId=eaad7303-be0b-49a1-b156-cb4d25e37363&cache=v2
+![COVID-19 Dashboard](https://raw.githubusercontent.com/chengwei0815/COVID-19-Global-Vaccine-Tracker-Tableau/main/covid-Dashboard.png)
 
 ## Result
 The dashboard has been a tremendous success, providing valuable insights into the progress of the global vaccination program. The dashboard has been widely used by policymakers, researchers, and the general public to track vaccination progress and identify areas where additional resources are needed. Some of the quantifiable results of the project include:
@@ -38,6 +38,5 @@ Steps:
 **Direct Link:**
 https://public.tableau.com/app/profile/wei.cheng7743/viz/COVID-19GlobalVaccineTracker_17306988878630/Dashboard
 
-![COVID-19 Dashboard](https://raw.githubusercontent.com/chengwei0815/COVID-19-Global-Vaccine-Tracker-Tableau/main/covid-Dashboard.png)
 
 
